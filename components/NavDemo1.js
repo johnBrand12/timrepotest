@@ -48,7 +48,7 @@ const HomeScreen = ({ navigation }) => {
         />
 
         <Button
-          title="Go to A Change has been made"
+          title="Go to A ChangTHIS IS A MAJOR CHANGEe has been made"
           onPress={() =>
             navigation.navigate('Profile', { name: 'Tim', greeting:'Konichi-wa' })
                // we're passing a parameter name:'Jane' to the Profile component!
